@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abddde51-0ebb-4cd6-b9f0-f2db636eac57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="abddde51-0ebb-4cd6-b9f0-f2db636eac57" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,8 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574318218140</updated>
-      <workItem from="1574318220200" duration="2754000" />
+      <workItem from="1574318220200" duration="3156000" />
     </task>
     <task id="LOCAL-00001" summary="First commit with Pycharm">
       <created>1574319832648</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574319832648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit with Pycharm">
+      <created>1574321120292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574321120292</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit with Pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit with Pycharm" />
+    <MESSAGE value="Second commit with Pycharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit with Pycharm" />
   </component>
 </project>
